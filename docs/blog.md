@@ -471,3 +471,4 @@ Output:
 The scatter plot of predictions versus actual values clearly shows points lying close to a 45-degree line, confirming the strong performance of our XGBoost model.
 
 -----
+```
