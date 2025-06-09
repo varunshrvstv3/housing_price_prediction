@@ -17,7 +17,7 @@ The primary goal of this project is to accurately predict housing prices based o
 
 ## Repository Contents
 
-* **[`housing_price_prediction.ipynb`](./housing_price_prediction.ipynb)**: The main Jupyter Notebook containing the full data analysis, preprocessing, feature engineering, model training, and evaluation code. This is the core of the project.
+* **[`housing_price_prediction.ipynb`](./notebook/housing_price_prediction.ipynb)**: The main Jupyter Notebook containing the full data analysis, preprocessing, feature engineering, model training, and evaluation code. This is the core of the project.
 * **[`blog.md`](./blog.md)**: A detailed blog post explaining the project in a more narrative format, summarizing the methodology, insights, and results. This is designed for easy reading and understanding of the project's highlights.
 
 
@@ -33,7 +33,7 @@ The primary goal of this project is to accurately predict housing prices based o
 ## How to Explore
 
 1.  **Read the Blog Post**: For a high-level overview and key takeaways, start with the [`blog.md`](./blog.md) file.
-2.  **Dive into the Notebook**: For a detailed understanding of the code and step-by-step analysis, open the [`housing_price_prediction.ipynb`](./housing_price_prediction.ipynb) notebook. You can view it directly on GitHub or open it in a Jupyter environment.
+2.  **Dive into the Notebook**: For a detailed understanding of the code and step-by-step analysis, open the [`housing_price_prediction.ipynb`](./notebook/housing_price_prediction.ipynb) notebook. You can view it directly on GitHub or open it in a Jupyter environment.
 
 Feel free to explore the code, replicate the analysis, and provide any feedback!
 
