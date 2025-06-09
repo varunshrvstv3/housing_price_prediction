@@ -462,7 +462,7 @@ Output:
 import matplotlib.pyplot as plt
 plt.scatter(X_test_scaled[:, 0], y_test) # Use scaled data for plotting if model was trained on scaled data
 plt.show()
-````
+```
 
 Output:
 
